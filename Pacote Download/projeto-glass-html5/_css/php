@@ -1,0 +1,5 @@
+<?php
+
+$mensagem = 1;
+
+echo $mensagem;
